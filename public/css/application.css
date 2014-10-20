@@ -18,28 +18,28 @@ html {
   color:inherit;
 }
 p {
-  font-weight: lighter;
-  margin: 0.3rem;
+  /*font-weight: lighter;*/
+  margin: 0.1rem;
 }
 
 h1{
   font-size: 3rem;
   font-weight: 300;
   color: #2C3E50;
-  margin: 1.5rem;
+  margin: 1.0rem;
   margin-top: 0;
 }
  h3{
 
   /*color: #596273;*/
-  color:#2980B9;
+  color:#2C3E50;
 
 }
 
 h2 {
   font-weight: 400;
   font-size: 1.5rem;
-  color: #2C3E50;
+  color: #2980B9;
   margin: 0.5rem;
   margin-left: 0;
 }
@@ -77,29 +77,29 @@ h3{
   left: 2rem;
 }
 hr {
-  width:75%;
-  color:#E74C3C;
-  border-color: #E74C3C;
+  width:100%;
+  color:#2980B9;
+  border-color: #2980B9;
 }
 
 /* unvisited link */
-.nav-right a:link {
+ a:link {
     color: inherit;
     text-decoration: none;
 }
 
 /* visited link */
-.nav-right a:visited {
+ a:visited {
     color: inherit;
 }
 
 /* mouse over link */
-.nav-right a:hover {
+ a:hover {
     color: inherit;
 }
 
 /* selected link */
-.nav-right a:active {
+ a:active {
     color: inherit;
 }
 
