@@ -19,7 +19,6 @@ html {
 }
 p {
   /*font-weight: lighter;*/
-  margin: 0.1rem;
 }
 
 h1{
@@ -32,7 +31,8 @@ h1{
  h3{
 
   /*color: #596273;*/
-  color:#2C3E50;
+  color:#3C0401;
+  font-weight: bold;
 
 }
 
@@ -46,7 +46,6 @@ h2 {
 
 h3{
   font-weight: 400;
-  margin: 0.5rem;
 }
 
 
